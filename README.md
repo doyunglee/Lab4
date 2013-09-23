@@ -30,6 +30,3 @@ Check out [the Android Design Docs](http://developer.android.com/design/index.ht
 Take a look back at your previous labs. Pick one and sketch out how you would redesign the UI. Also consider the following:
 
 * How the user would get notifations from the app and when is it applicable to send notifications.
-* How the user will be asked for permissions
-
-Note: If you've gotten through Lab 3, we'd reccomend using this one since the permissions are applicable.
