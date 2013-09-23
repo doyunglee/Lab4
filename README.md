@@ -25,8 +25,10 @@ Pause ... review some programming concepts from yesterday
 
 Homework
 ---
-Check out [the Android Design Docs](http://developer.android.com/design/index.html). We are not saying know all of it, but be familiar with some of the best practices. There will be an open-internet quiz on this on Thursday.
+Check out [the Android Design Docs](http://developer.android.com/design/index.html). We are not saying know all of it, but be familiar with some of the best practices.
 
-Take a look back at your previous labs. Pick one and sketch out how you would redesign the UI. Also consider the following:
+Take a look back at your previous labs. Pick one and sketch out how you would redesign the UI. You will be asked to justify for each design decision you make.
+
+Also consider the following:
 
 * How the user would get notifations from the app and when is it applicable to send notifications.
